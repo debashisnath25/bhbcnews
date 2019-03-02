@@ -17,7 +17,7 @@
 					<a class="side-menu__item" href="<?php echo base_url('add_news_management');?>"><span class="side-menu__label"> Add </span></a>
 				</li>
 				<li class="slide">
-					<a class="side-menu__item" href="<?php echo base_url('edit_news_management');?>"><span class="side-menu__label"> Update </span></a>
+					<a class="side-menu__item" href="#"><span class="side-menu__label"> Update </span></a>
 				</li>
 				<li class="slide">
 					<a class="side-menu__item " href="<?php echo base_url('listing_news_management');?>"><span class="side-menu__label"> Delete </span></a>
@@ -31,13 +31,13 @@
             </li>
 			<div id="Image_Manage" class="collapse">
 				<li class="slide">
-					<a class="side-menu__item" href="<?php echo base_url('listing_dealers');?>"><span class="side-menu__label"> Add </span></a>
+					<a class="side-menu__item" href="<?php echo base_url('add_image_manage');?>"><span class="side-menu__label"> Add </span></a>
 				</li>
 				<li class="slide">
-					<a class="side-menu__item" href="<?php echo base_url('listing_vendors');?>"><span class="side-menu__label"> Update </span></a>
+					<a class="side-menu__item" href="#"><span class="side-menu__label"> Update </span></a>
 				</li>
 				<li class="slide">
-					<a class="side-menu__item "><span class="side-menu__label"> Delete </span></a>
+					<a class="side-menu__item " href="<?php echo base_url('listing_image_manage');?>"><span class="side-menu__label"> Delete </span></a>
 				</li>
 			</div>
 			<!-- Image Manage ENDS -->
@@ -48,13 +48,13 @@
             </li>
 			<div id="Video_Manage" class="collapse">
 				<li class="slide">
-					<a class="side-menu__item" href="<?php echo base_url('listing_dealers');?>"><span class="side-menu__label"> Add </span></a>
+					<a class="side-menu__item" href="<?php echo base_url('add_video-manage');?>"><span class="side-menu__label"> Add </span></a>
 				</li>
 				<li class="slide">
-					<a class="side-menu__item" href="<?php echo base_url('listing_vendors');?>"><span class="side-menu__label"> Update </span></a>
+					<a class="side-menu__item" href="#"><span class="side-menu__label"> Update </span></a>
 				</li>
 				<li class="slide">
-					<a class="side-menu__item "><span class="side-menu__label"> Delete </span></a>
+					<a class="side-menu__item " href="<?php echo base_url('listing_video_manage');?>"><span class="side-menu__label"> Delete </span></a>
 				</li>
 			</div>
 			<!-- Video Manage ENDS -->
@@ -65,13 +65,13 @@
             </li>
 			<div id="Reporter_Manage" class="collapse">
 				<li class="slide">
-					<a class="side-menu__item" href="<?php echo base_url('listing_dealers');?>"><span class="side-menu__label"> Add </span></a>
+					<a class="side-menu__item" href="<?php echo base_url('add_reporter_manage');?>"><span class="side-menu__label"> Add </span></a>
 				</li>
 				<li class="slide">
-					<a class="side-menu__item" href="<?php echo base_url('listing_vendors');?>"><span class="side-menu__label"> Update </span></a>
+					<a class="side-menu__item" href="#"><span class="side-menu__label"> Update </span></a>
 				</li>
 				<li class="slide">
-					<a class="side-menu__item "><span class="side-menu__label"> Delete </span></a>
+					<a class="side-menu__item " href="<?php echo base_url('listing_reporter_manage');?>"><span class="side-menu__label"> Delete </span></a>
 				</li>
 			</div>
 			<!-- Reporter Manage ENDS -->
@@ -82,13 +82,13 @@
             </li>
 			<div id="Advertisement_Manage" class="collapse">
 				<li class="slide">
-					<a class="side-menu__item" href="<?php echo base_url('listing_dealers');?>"><span class="side-menu__label"> Add </span></a>
+					<a class="side-menu__item" href="<?php echo base_url('add_advertisement_manage');?>"><span class="side-menu__label"> Add </span></a>
 				</li>
 				<li class="slide">
-					<a class="side-menu__item" href="<?php echo base_url('listing_vendors');?>"><span class="side-menu__label"> Update </span></a>
+					<a class="side-menu__item" href="#"><span class="side-menu__label"> Update </span></a>
 				</li>
 				<li class="slide">
-					<a class="side-menu__item "><span class="side-menu__label"> Delete </span></a>
+					<a class="side-menu__item " href="<?php echo base_url('listing_advertisement_manage');?>"><span class="side-menu__label"> Delete </span></a>
 				</li>
 			</div>
 			<!-- Advertisement Manage ENDS -->
